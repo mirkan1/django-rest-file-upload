@@ -1,0 +1,6 @@
+.env
+.venv
+files
+.vscode
+db.*
+*.cpython-*
